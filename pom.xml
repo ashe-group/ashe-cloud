@@ -7,6 +7,10 @@
 	<groupId>com.ashe.cloud</groupId>
 	<artifactId>ashe-cloud</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+	<modules>
+		<module>ashe-cloud-common-lang</module>
+		<module>ashe-cloud-component-monitor</module>
+	</modules>
 	<packaging>pom</packaging>
 	
 	<name>ashe-cloud</name>
