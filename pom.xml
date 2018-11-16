@@ -9,7 +9,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<modules>
 		<module>ashe-cloud-common-lang</module>
-		<module>ashe-cloud-component-monitor</module>
+		<module>ashe-cloud-component-monitor-server</module>
 	</modules>
 	<packaging>pom</packaging>
 	
